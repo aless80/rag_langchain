@@ -1,0 +1,12 @@
+*.env
+.idea/
+*gguf
+__pycache__/
+venv*/
+db_index*/*
+chunks*/*
+.SQLiteCache_analysis.db
+#
+local_storage
+# poetry
+poetry.lock
